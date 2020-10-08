@@ -1,0 +1,10 @@
+C:\Users\T-Gamer\Source\Repos\Sistema de cadastro de pacientes\Sistema de cadastro de pacientes\bin\Debug\Sistema de cadastro de pacientes.exe.config
+C:\Users\T-Gamer\Source\Repos\Sistema de cadastro de pacientes\Sistema de cadastro de pacientes\bin\Debug\Sistema de cadastro de pacientes.exe
+C:\Users\T-Gamer\Source\Repos\Sistema de cadastro de pacientes\Sistema de cadastro de pacientes\bin\Debug\Sistema de cadastro de pacientes.pdb
+C:\Users\T-Gamer\Source\Repos\Sistema de cadastro de pacientes\Sistema de cadastro de pacientes\obj\Debug\Sistema de cadastro de pacientes.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Source\Repos\Sistema de cadastro de pacientes\Sistema de cadastro de pacientes\obj\Debug\Sistema_de_cadastro_de_pacientes.Form1.resources
+C:\Users\T-Gamer\Source\Repos\Sistema de cadastro de pacientes\Sistema de cadastro de pacientes\obj\Debug\Sistema_de_cadastro_de_pacientes.Properties.Resources.resources
+C:\Users\T-Gamer\Source\Repos\Sistema de cadastro de pacientes\Sistema de cadastro de pacientes\obj\Debug\Sistema de cadastro de pacientes.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Source\Repos\Sistema de cadastro de pacientes\Sistema de cadastro de pacientes\obj\Debug\Sistema de cadastro de pacientes.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Source\Repos\Sistema de cadastro de pacientes\Sistema de cadastro de pacientes\obj\Debug\Sistema de cadastro de pacientes.exe
+C:\Users\T-Gamer\Source\Repos\Sistema de cadastro de pacientes\Sistema de cadastro de pacientes\obj\Debug\Sistema de cadastro de pacientes.pdb
