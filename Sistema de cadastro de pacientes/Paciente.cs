@@ -13,7 +13,7 @@ namespace Sistema_de_cadastro_de_pacientes
        public DateTime data;
        public string sexo;
         public int id;
-        public string joao;
+        
 
          
             
